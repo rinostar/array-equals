@@ -6,4 +6,4 @@ Determines if the two input integer arrays are equal. The two arrays will be con
 
 **Note:** Do not use Array class methods for comparing the whole array at once. You may use array indexing to retrieve one element at a time, you may compare individual elements with each other and you may retrieve the length of an array. Do not use any other Ruby provided functions.
 
-**Due Date**  This assignment is due **Monday August 26th**
+**Due Date**  This assignment is due **Monday Sept 2nd**
